@@ -1,16 +1,25 @@
-# e_health
-
-A new Flutter project.
+# HealthBand
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The project is developed with Flutter 3.3.10 version and Dart 2.18.6.
 
-A few resources to get you started if this is your first Flutter project:
+In order to run the project, you need to have Flutter installed on your machine. You can follow the instructions on the official website to install Flutter: https://flutter.dev/docs/get-started/install
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+After installing Flutter, you can run the project by following the steps below:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository to your local machine.
+2. Open the terminal and navigate to the project directory.
+3. Run the following command to install the dependencies:
+```bash
+flutter pub get
+```
+4. Run the following command to run the project:
+```bash
+flutter run
+```
+
+
+
+
+
